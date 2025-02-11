@@ -1,0 +1,8 @@
+password
+Password
+Passw0rd
+P@ssword
+P@55word
+P@55w0rd
+p@55w0rd
+P@SSW0RD
